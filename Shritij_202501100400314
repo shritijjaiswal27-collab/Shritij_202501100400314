@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India Travel Simplified & Stylish</title>
+</head>
+<body>
+
+    <!-- Adding Heading to the webpage -->
+        <h1> <strong><ins>🇮🇳 Simple India Travel Guide</ins>  </strong></h1>
+        <hr>
+        <br>  
+    <header>
+
+        <!-- Providing a HyperLink -->
+
+            <a href="https://www.incredibleindia.org/" target="_blank">Incredible India Official Site</a> |
+
+            <a href="http://www.google.com" target="_blank">Google</a>
+
+        <br>
+        <hr>
+    </header>
+    <!-- Sub Heading -->
+
+        <h2><strong><ins>Journey Begins </ins></strong></h2>
+        <br>
+        <p>
+            <!-- Two paragrahs  -->
+            <strong>Welcome!</strong> This guide offers <ins>essential</ins> tips for exploring India. We focus on simplicity and value.
+        </p>
+        <!-- we use strong keyword for bold character -->
+            Travel should be <em>relaxing, not stressful.</em> Avoid packing <ins>too much stuﬀ</ins> and remember that waiting until the last minute is unwise for booking flights—> <ins>it's usually much more expensive.</ins> 
+        </p>
+
+    <hr>
+
+
+
+
+    <!-- Sub Heading -->
+
+        <strong><h2><ins>DestinationsTop 5 Travel </ins></h2></strong>
+
+        <ol>
+            <li>Taj Mahal, Agra</li>
+            <li>Kerala </li>
+            <li>Ladakh</li>
+            <li>Goa Beaches</li>
+            <li>Varanasi Ghats</li>
+        </ol>
+        <strong><h2><ins>Must Do Activities</ins></h2></strong>
+        <hr>
+          <!-- Writing a paragragh on Taj mahal -->
+        <br><strong>1. TAJ MAHAL :</strong><br>The Taj Mahal is a white marble mausoleum in Agra, India, built by Mughal Emperor Shah Jahan for his beloved wife, Mumtaz Mahal, who died during childbirth, making it a renowned symbol of eternal love. Constructed between 1631 and 1653 by over <strong>20,000 artisans,</strong>  it is a masterpiece of Mughal architecture, blending Persian, Islamic, and Indian styles. The complex, located on the banks of the Yamuna River, features formal gardens, a mosque, and a guesthouse, and is recognized as both one of the Seven Wonders of the World and a <em>UNESCO World Heritage Site.</em>  
+        <!-- image link via Copy Image Address -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg" alt="Taj Mahal stands majestically with its white marble reflecting sunlight, surrounded by lush gardens and visitors admiring the monument. The atmosphere feels serene and awe-inspiring." width="25" height="25"
+
+    <hr>
+    <!-- we use images to attract our customer -->
+        <!-- Writing a paragraph on River rafting in Rishikesh -->
+         <!-- strong use for bold character -->
+
+
+
+
+
+
+
+
+
+        <br><strong>2. RIVER RAFTING :</strong><br>River rafting in Rishikesh, India, is an exhilarating adventure activity that involves navigating the white-water rapids of the Ganges River. <strong>Known as the "Yoga Capital of the World,"</strong> Rishikesh offers a unique blend of spiritual serenity and thrilling outdoor experiences. The river's varying levels of rapids cater to both beginners and experienced rafters, making it a popular destination for adventure enthusiasts. Rafting trips often include stunning views of the surrounding Himalayan foothills, lush forests, and ancient temples along the riverbanks. <ins>Safety is a priority,</ins> with professional guides and quality equipment provided to ensure an enjoyable and secure experience. Overall, river rafting in Rishikesh combines excitement with natural beauty, making it a must-do activity for visitors seeking adventure in India.
+        <!-- image link via Copy Image Address -->
+        <img src="https://www.redchilliadventure.com/system/images/000/054/983/b763ccfc75612b3e4f2e684588f64cee/banner/rafting-4.jpg" alt="Group of people rafting on the Ganga River in Rishikesh, navigating white water rapids with lush green hills in the background. The mood is adventurous and energetic." width="25" height="50"
+        <br>
+
+
+        
+    <hr>
+
+        <strong><h2><ins>Attributes+Rupees</ins></h2></strong>
+
+        <table border="1"></table>
+        <!-- Now forming a table of given sets(Destination,Price,Duration) -->
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Destination</th>
+                    <th>Price (INR)</th>
+                    <th>Duration</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Golden Triangle</td>
+                    <td>₹ 19,990</td>
+                    <td>3 Days</td>
+                </tr>
+                <tr>
+                    <td>Kerala</td>
+                    <td>₹ 26,500</td>
+                    <td>3 Days</td>
+                </tr>
+                <tr>
+                    <td>Ladakh</td>
+                    <td>₹ 42,990</td>
+                    <td>3 Days</td>
+                </tr>
+                <tr>
+                    <td>Goa</td>
+                    <td>₹ 14,999</td>
+                    <td>3 Days</td>
+                </tr>
+            </tbody>
+        </table>
+
+    <hr>
+
+
+
+    <h3><em><ins>Things to carry while travelling</ins></em></h3>
+
+        <ul>
+            <li>Comfortable Clothing</li>
+            <li>Travel Documents</li>
+            <li>Medications</li>
+            <li>Cash and Cards</li>
+            <li>Electronics and Chargers</li>
+        </ul>
+    
+
+    <!-- Providing one link to Contact us -->
+        <strong><h2>Contact Us</h2></strong>
+        <p>
+            <a href="indiaguide@gmail.com" target="_blank">MailMe</a>
+        </p>
+        
+
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
